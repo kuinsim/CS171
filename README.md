@@ -1,2 +1,1 @@
-# CS171
-CS171 course related work
+Coursework for CS171 - Computer Programming I
